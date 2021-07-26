@@ -1,7 +1,7 @@
 import { Event, Command } from '../types';
 import { Message } from 'discord.js';
 
-export const ready: Event = {
+export const event: Event = {
     name: 'message',
     run: (client: any, msg: Message): any => {
         // Prevenir bots, webhooks o cualquier mensaje que no tenga el prefix
