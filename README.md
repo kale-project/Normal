@@ -28,15 +28,20 @@
   </p>
 </div>
 
-## 😸 Normal 2.0 Alfa branch
+## 😸 Normal 2.0 Rama Alfa
  La rama alfa de un bot sencillo y multipropósito
  
 ### 🎍 Novedades
 - Escrito en TypeScript
+<<<<<<< HEAD
 - Basado únicamente en Discord.JS v. 13 con handling (sin frameworks raros)
 - Mejor mantenido
+=======
+- Basado únicamente en Discord.JS con handling (sin frameworks raros)
+- Mejor mantenimiento
+>>>>>>> a610addc965cae9332af6094eb632bbc97c298f6
 - Más comandos de todo tipo
-- Más...
+- Y más...
 
 - 🤖 **Bot** [Click aquí](https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true)
 - 🧣 **Top.gg** [Click aquí](https://top.gg/bot/698568850651873299)
